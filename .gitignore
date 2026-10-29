@@ -1,0 +1,111 @@
+# Miscellaneous
+*.class
+*.log
+*.pyc
+*.swp
+.DS_Store
+Thumbs.db
+desktop.ini
+.atom/
+.buildlog/
+.history
+.svn/
+migrate_working_dir/
+*.tmp
+*.temp
+*.bak
+
+# Custom/temporary files
+build_log.txt
+.claude/
+
+# IDEs and editors
+# IntelliJ IDEA
+*.iml
+*.ipr
+*.iws
+.idea/
+# Visual Studio Code
+.vscode/
+
+# Flutter/Dart/Pub related
+**/doc/api/
+.dart_tool/
+.flutter-plugins
+.flutter-plugins-dependencies
+.pub-cache/
+.pub/
+/build/
+/coverage/
+.fvm/flutter_sdk
+
+# Secrets & signing (never commit these)
+.env
+.env.*
+*.pem
+*.p8
+*.p12
+*.cer
+*.mobileprovision
+*.keystore
+*.jks
+key.properties
+**/service-account*.json
+**/*-service-account.json
+
+# Android related
+/android/local.properties
+/android/.gradle/
+/android/build/
+/android/.kotlin/
+/android/app/.cxx/
+/android/app/debug/
+/android/app/profile/
+/android/app/release/
+**/GeneratedPluginRegistrant.java
+
+# iOS/macOS related
+**/ios/Flutter/.last_build_id
+**/ios/.symlinks/
+**/ios/Pods/
+**/ios/build/
+**/ios/**/xcuserdata/
+**/ios/**/DerivedData/
+**/ios/Flutter/ephemeral/
+/ios/Flutter/Generated.xcconfig
+/ios/Flutter/flutter_export_environment.sh
+/ios/Flutter/App.framework
+/ios/Flutter/Flutter.framework
+/ios/Flutter/Flutter.podspec
+/ios/Runner/GeneratedPluginRegistrant.*
+**/macos/Pods/
+**/macos/**/xcuserdata/
+/macos/Flutter/ephemeral/
+/macos/Flutter/GeneratedPluginRegistrant.swift
+
+# Linux related
+/linux/flutter/ephemeral/
+/linux/flutter/Generated*.cmake
+
+# Windows related
+/windows/flutter/ephemeral/
+/windows/flutter/Generated*.cmake
+
+# Web related
+/web/.dart_tool/
+
+# Shorebird
+.shorebird/
+
+# Symbolication and obfuscation
+app.*.symbols
+app.*.map.json
+/symbols/
+
+# Installers, executables, and binaries
+*.exe
+*.msi
+*.apk
+*.aab
+*.ipa
+*.dSYM.zip

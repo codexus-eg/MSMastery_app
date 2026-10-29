@@ -1,0 +1,67 @@
+{
+  "project_info": {
+    "project_number": "544595379370",
+    "project_id": "salahplatform",
+    "storage_bucket": "salahplatform.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:544595379370:android:7ed3b1a68e58503cf4bcd3",
+        "android_client_info": {
+          "package_name": "com.codenredstech.salah_platform"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDygAkeVqbPuWN7tAv9IemVIVQXGvkwGDA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:544595379370:android:e85d89f382572d0df4bcd3",
+        "android_client_info": {
+          "package_name": "com.codiaeumtech.salah_online_platform"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDygAkeVqbPuWN7tAv9IemVIVQXGvkwGDA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:544595379370:android:08f1e025d2f75889f4bcd3",
+        "android_client_info": {
+          "package_name": "com.example.salah_sec_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDygAkeVqbPuWN7tAv9IemVIVQXGvkwGDA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
